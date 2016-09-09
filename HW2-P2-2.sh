@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Homework 2 - Problem 1-1
+# Homework 2 - Problem 2-2
 # Mohamad Ibrahim Cheikh
 
 echo -n " Please input the Temperature in degrees Fahrenheit > "

@@ -11,6 +11,12 @@ C=$((($F - 32)*5/9))
 
 echo " The equivalent temperature in degrees Celsius is $C"
 
+let K=($C+273)
+
+echo " The equivalent Temperature in degrees Kelvin is $K"
+
 let CC=($F - 32)*5/9
 
-echo " $F F = $CC C"
+echo " $F F = $CC C = $K K"
+
+
